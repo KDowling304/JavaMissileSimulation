@@ -65,8 +65,14 @@ public class MissileSimulation {
                             icon = "AmericanDestroyer.png";
                     } else if (missileShipType.equals("offensive")) {
                         icon = "K";
+                    } else if (missileShipType.equals("defensive")) {
+                        icon = "D";
+                    } else if (missileShipType.equals("ESSM")) {
+                        icon = "E";
+                    } else if (missileShipType.equals("SeaRAM")) {
+                        icon = "S";
                     } else {
-                        icon = "d";
+                        icon = "C";
                     }
                 }
                 if (color.equals("Red"))
