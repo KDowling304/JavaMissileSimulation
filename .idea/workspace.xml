@@ -25,13 +25,14 @@
     <session id="-1732851197">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,15 +63,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MissileSimulation.class">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MissileSimulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="1377">
               <caret line="81" selection-start-line="80" selection-end-line="81" />
             </state>
           </provider>
@@ -116,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +129,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +171,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="128" y="23" width="938" height="713" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,15 +207,15 @@
         <state relative-caret-position="-1238" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MissileSimulation.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MissileSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="1377">
           <caret line="81" selection-start-line="80" selection-end-line="81" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MissileSimulation.class">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
