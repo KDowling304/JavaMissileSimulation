@@ -37,7 +37,7 @@ public class MissileSimulation {
 
         // initialize standard drawing
         StdDraw.setCanvasSize(1024, 256);
-        StdDraw.setXscale(-20, 320);
+        StdDraw.setXscale(-50, 350);
         StdDraw.setYscale(-1.0, 1.0);
         StdDraw.enableDoubleBuffering();
 
@@ -97,7 +97,7 @@ public class MissileSimulation {
 
             // set the background to light gray
             StdDraw.clear(StdDraw.BOOK_LIGHT_BLUE);
-            StdDraw.picture(150, 0, "blue-oceanCropped.jpg", 340, 2);
+            StdDraw.picture(150, 0, "blue-oceanCropped.jpg", 400, 2);
 
             currentTime += 0.25;
         }
